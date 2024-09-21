@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goodtruxx/static/css/main.7acaea2f.css",
-    "main.js": "/goodtruxx/static/js/main.07d3183d.js",
+    "main.css": "/goodtruxx/static/css/main.e5159ac7.css",
+    "main.js": "/goodtruxx/static/js/main.276a6fbf.js",
+    "static/media/delivery.svg": "/goodtruxx/static/media/delivery.e1bb23f388335a3d566c33c2d78ad2aa.svg",
     "index.html": "/goodtruxx/index.html",
-    "main.7acaea2f.css.map": "/goodtruxx/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goodtruxx/static/js/main.07d3183d.js.map"
+    "main.e5159ac7.css.map": "/goodtruxx/static/css/main.e5159ac7.css.map",
+    "main.276a6fbf.js.map": "/goodtruxx/static/js/main.276a6fbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e5159ac7.css",
+    "static/js/main.276a6fbf.js"
   ]
 }
