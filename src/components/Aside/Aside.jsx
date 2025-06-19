@@ -17,17 +17,17 @@ return (
       <h1>AsideLeft</h1>
    </div>
    <div className={styles.AsideBoxRight}>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
-   <h1>AsideRight</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
+   <h1>Lets get ready to rumble-bumble</h1>
 
 </div>
    </div>
