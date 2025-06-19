@@ -12,7 +12,7 @@ return (
    <div className={styles.HeaderBox}>
      
         <a className={styles.HeaderBoxLogo} href="/">
-        <p>Good <br/> Truck</p>
+        <p>Hello<br/> World</p>
         <BasketIcon/>
         </a>
       
