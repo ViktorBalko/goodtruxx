@@ -5,13 +5,13 @@ export const Aside = () => {
 return (
    <div className={styles.AsideBox}>
       <div className={styles.AsideBoxLeft}>
+      <h1>Aside</h1>
+      <h1>Aside</h1>
       <h1>AsideLeft</h1>
       <h1>AsideLeft</h1>
+      <h1>Asid</h1>
       <h1>AsideLeft</h1>
-      <h1>AsideLeft</h1>
-      <h1>AsideLeft</h1>
-      <h1>AsideLeft</h1>
-      <h1>AsideLeft</h1>
+      <h1>Asi</h1>
       <h1>AsideLeft</h1>
       <h1>AsideLeft</h1>
       <h1>AsideLeft</h1>
